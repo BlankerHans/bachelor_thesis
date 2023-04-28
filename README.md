@@ -7,3 +7,5 @@ For this I will look at statistical facts and try to determine what are the driv
 - For (a) the dependent variable will be the price of Bitcoin. 
 - For (b) the dependent variable will be the rolling 30-days-volatility of Bitcoin.
 - For (c)
+
+For data manipulation and data cleaning I will use Python. For statistical regressions I will use R.
