@@ -8,6 +8,6 @@ For this I will look at statistical facts and try to determine what are the driv
 - For (b) the dependent variable will be the price of Bitcoin.
 - For (c)
 
-For data manipulation and data cleaning I will use Python. \
+For data manipulation, data cleaning and some data visualizations I will use Python. \
 For statistical regressions I will use R. \
 My bachelor thesis will be available as PDF after I finished writing it.
