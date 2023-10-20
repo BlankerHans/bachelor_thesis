@@ -1,0 +1,1879 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://link.springer.com/10.1007/s10273-022-3138-z">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1613-978X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Greitens</foaf:surname>
+                        <foaf:givenName>Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>Georg Friedrich Knapp und die Modern Monetary Theory</dc:title>
+        <dcterms:abstract>Zusammenfassung
+            Aus Anlass der Wiederveröffentlichung des Sonderhefts „Georg Friedrich Knapp — ein literarisches Bildnis“ im Wirtschaftsdienst zum 80. Geburtstag von Knapp vor genau 100 Jahren wird der Versuch unternommen, Person und Werk des Wissenschaftlers aus heutiger Sicht zu würdigen und die aktuelle Kontroverse um ihn zu beleuchten, denn die Modern Monetary Theory sieht in Knapp ihren Ursprung.
+          , 
+            Abstract
+            Knapp’s “State Theory of Money” (1905) claims that “Money is an entity of the legal order.” Money is a chartal means of payment, the value of which is independent of the metal value. Money is regulated by the modern state, but this could also be done by non-governmental communities. Contemporary criticism of Knapp reads like criticism of MMT: The danger of inflation is not taken seriously, there is an overreliance on the state, and the approach is too narrowly focused on the monetary side of the economy. MMT’s reception of Knapp suffers from the abbreviated translation into English. Politically, Knapp calls for austerity policies. Therefore, MMT is only loosely rooted in Knapp.</dcterms:abstract>
+        <dc:date>03/2022</dc:date>
+        <z:language>de</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/s10273-022-3138-z</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 12:11:33</dcterms:dateSubmitted>
+        <bib:pages>193-198</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1613-978X">
+        <prism:volume>102</prism:volume>
+        <dc:title>Wirtschaftsdienst</dc:title>
+        <dc:identifier>DOI 10.1007/s10273-022-3138-z</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Wirtschaftsdienst</dcterms:alternative>
+        <dc:identifier>ISSN 1613-978X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2/Greitens - 2022 - Georg Friedrich Knapp und die Modern Monetary Theo.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007/s10273-022-3138-z.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 12:11:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-933550-59-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Auburn, Ala.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ludwig von Mises Institute</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Menger</foaf:surname>
+                        <foaf:givenName>Carl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>On the origins of money</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <dc:description>OCLC: 664877242</dc:description>
+        <dc:identifier>ISBN 978-1-933550-59-6</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-92-846-3167-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Brussels</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>European Parliament</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fiedler</foaf:surname>
+                        <foaf:givenName>Salomon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gern</foaf:surname>
+                        <foaf:givenName>Klaus-Jürgen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Herle</foaf:surname>
+                        <foaf:givenName>Dennis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kooths</foaf:surname>
+                        <foaf:givenName>Stefan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stolzenburg</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stoppok</foaf:surname>
+                        <foaf:givenName>Lucie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Virtual currencies : in-depth analysis : monetary dialogue July 2018</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>eng</z:language>
+        <z:shortTitle>Virtual currencies</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://data.europa.eu/doi/10.2861/631629</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>OCLC: 1065537858</dc:description>
+        <dc:identifier>ISBN 978-92-846-3167-4</dc:identifier>
+    </bib:Book>
+    <bib:Article rdf:about="https://link.springer.com/10.1007/s43546-021-00090-5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2662-9399"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kayal</foaf:surname>
+                        <foaf:givenName>Parthajit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rohilla</foaf:surname>
+                        <foaf:givenName>Purnima</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_7"/>
+        <dc:title>Bitcoin in the economics and finance literature: a survey</dc:title>
+        <dc:date>2021-06-03</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Bitcoin in the economics and finance literature</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/s43546-021-00090-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 15:17:38</dcterms:dateSubmitted>
+        <bib:pages>88</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2662-9399">
+        <prism:volume>1</prism:volume>
+        <dc:title>SN Business &amp; Economics</dc:title>
+        <dc:identifier>DOI 10.1007/s43546-021-00090-5</dc:identifier>
+        <prism:number>7</prism:number>
+        <dcterms:alternative>SN Bus Econ</dcterms:alternative>
+        <dc:identifier>ISSN 2662-9399</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/7/Kayal und Rohilla - 2021 - Bitcoin in the economics and finance literature a.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007/s43546-021-00090-5.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 15:17:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="http://www.nber.org/papers/w26300.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge, MA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>National Bureau of Economic Research</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brunnermeier</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>James</foaf:surname>
+                        <foaf:givenName>Harold</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Landau</foaf:surname>
+                        <foaf:givenName>Jean-Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>The Digitalization of Money</dc:title>
+        <dc:date>09/2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.nber.org/papers/w26300.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 15:24:22</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.3386/w26300</dc:description>
+        <bib:pages>w26300</bib:pages>
+        <prism:number>w26300</prism:number>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/Brunnermeier et al. - 2019 - The Digitalization of Money.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.3386/w26300</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 15:24:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://bitcoin.org/bitcoin.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nakamoto</foaf:surname>
+                        <foaf:givenName>Satoshi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>Bitcoin: A Peer-to-Peer Electronic Cash System</dc:title>
+        <dc:date>2008</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://bitcoin.org/bitcoin.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/Nakamoto - 2009 - Bitcoin A Peer-to-Peer Electronic Cash System.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://bitcoin.org/bitcoin.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 18:01:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_16">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nakamoto</foaf:surname>
+                        <foaf:givenName>Satoshi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <dc:title>Bitcoin: Ein elektronisches Peer-to-Peer-Cash-System</dc:title>
+        <z:language>de</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/15/Nakamoto - Bitcoin Ein elektronisches Peer-to-Peer-Cash-Syst.pdf"/>
+        <dc:title>Nakamoto - Bitcoin Ein elektronisches Peer-to-Peer-Cash-Syst.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://bitcoin.org/files/bitcoin-paper/bitcoin_de.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 19:36:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_21">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wien</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Menger</foaf:surname>
+                        <foaf:givenName>Carl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_22"/>
+        <dc:title>Grundsätze der Volkswirthschaftslehre</dc:title>
+        <dc:date>1871</dc:date>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_22">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/22/Menger - 1871 - Grundsätze der Volkswirthschaftslehre.pdf"/>
+        <dc:title>Menger - 1871 - Grundsätze der Volkswirthschaftslehre.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0275531923000909">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:02755319"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bibi</foaf:surname>
+                        <foaf:givenName>Samuele</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26"/>
+        <dc:title>Money in the time of crypto</dc:title>
+        <dc:date>04/2023</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0275531923000909</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 11:18:25</dcterms:dateSubmitted>
+        <bib:pages>101964</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:02755319">
+        <prism:volume>65</prism:volume>
+        <dc:title>Research in International Business and Finance</dc:title>
+        <dc:identifier>DOI 10.1016/j.ribaf.2023.101964</dc:identifier>
+        <dcterms:alternative>Research in International Business and Finance</dcterms:alternative>
+        <dc:identifier>ISSN 02755319</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/26/Bibi - 2023 - Money in the time of crypto.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0275531923000909/pdfft?md5=efa8c3699096b0746780dd2e29c5a4cd&amp;pid=1-s2.0-S0275531923000909-main.pdf&amp;isDTMRedir=Y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 11:18:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.sagepub.com/doi/10.1177/0263276415619015">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0263-2764,%201460-3616"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bjerg</foaf:surname>
+                        <foaf:givenName>Ole</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_28"/>
+        <dc:title>How is Bitcoin Money?</dc:title>
+        <dcterms:abstract>Bitcoin is a peer-to-peer electronic payment system that operates as an independent currency. This paper is a philosophical investigation of the ontological constitution of Bitcoin. Using Slavoj Žižek’s ontological triad of the real, the symbolic and the imaginary, the paper distinguishes between three ideal typical theories of money: commodity theory, fiat theory, and credit theory. The constitution of Bitcoin is analysed by comparing the currency to each of these ideal types. It is argued that Bitcoin is commodity money without gold, fiat money without a state, and credit money without debt. In conclusion, it is suggested that Bitcoin poses an ideological challenge to conventional forms of money in so far as it not only provokes sedimented beliefs about money but also exposes the forms of exploitation, risk and even violence inherent in the existing system of state authorized credit money.</dcterms:abstract>
+        <dc:date>01/2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/10.1177/0263276415619015</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 11:39:55</dcterms:dateSubmitted>
+        <bib:pages>53-72</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0263-2764,%201460-3616">
+        <prism:volume>33</prism:volume>
+        <dc:title>Theory, Culture &amp; Society</dc:title>
+        <dc:identifier>DOI 10.1177/0263276415619015</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Theory, Culture &amp; Society</dcterms:alternative>
+        <dc:identifier>ISSN 0263-2764, 1460-3616</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_28">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/28/Bjerg - 2016 - How is Bitcoin Money.pdf"/>
+        <dc:title>Eingereichte Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://research-api.cbs.dk/ws/files/44436178/ole_bjerg_how_is_bitcoin_money_postprint.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 11:39:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="http://www.nber.org/papers/w19747.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge, MA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>National Bureau of Economic Research</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yermack</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>Is Bitcoin a Real Currency? An economic appraisal</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Is Bitcoin a Real Currency?</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.nber.org/papers/w19747.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 12:09:48</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.3386/w19747</dc:description>
+        <bib:pages>w19747</bib:pages>
+        <prism:number>w19747</prism:number>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/31/Yermack - 2013 - Is Bitcoin a Real Currency An economic appraisal.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.3386/w19747</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 12:09:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_34">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Macmillan &amp; Company Limited</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knapp</foaf:surname>
+                        <foaf:givenName>Georg Friedrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The State Theory of Money</dc:title>
+        <dc:date>1924</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.nomos-elibrary.de/10.5771/1439-880X-2004-2-176/was-ist-geld-jahrgang-5-2004-heft-2?page=1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1439-880X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sokol</foaf:surname>
+                        <foaf:givenName>Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_36"/>
+        <dc:title>Was ist Geld?</dc:title>
+        <dc:date>2004/08/15</dc:date>
+        <z:language>de</z:language>
+        <z:libraryCatalog>www.nomos-elibrary.de</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nomos-elibrary.de/10.5771/1439-880X-2004-2-176/was-ist-geld-jahrgang-5-2004-heft-2?page=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 13:59:39</dcterms:dateSubmitted>
+        <dc:description>Publisher: Nomos Verlagsgesellschaft mbH &amp; Co. KG</dc:description>
+        <bib:pages>176-185</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1439-880X">
+        <prism:volume>5</prism:volume>
+        <dc:title>zfwu Zeitschrift für Wirtschafts- und Unternehmensethik</dc:title>
+        <dc:identifier>DOI 10.5771/1439-880X-2004-2-176</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 1439-880X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_36">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/36/Sokol - 2004 - Was ist Geld.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nomos-elibrary.de/10.5771/1439-880X-2004-2-176.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 13:59:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://hdl.handle.net/10419/175126">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0018-974X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thiele</foaf:surname>
+                        <foaf:givenName>Carl-Ludwig</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Diehl</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayer</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Elsner</foaf:surname>
+                        <foaf:givenName>Dirk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pecksen</foaf:surname>
+                        <foaf:givenName>Gerrit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brühl</foaf:surname>
+                        <foaf:givenName>Volker</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Michaelis</foaf:surname>
+                        <foaf:givenName>Jochen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_37"/>
+        <dc:title>Kryptowährung Bitcoin: Währungswettbewerb oder Spekulationsobjekt: Welche Konsequenzen sind für das aktuelle Geldsystem zu erwarten?</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>de</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://hdl.handle.net/10419/175126</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0018-974X">
+        <dc:title>ifo Institut - Leibniz-Institut für Wirtschaftsforschung an der Universität München</dc:title>
+        <dc:identifier>ISSN 0018-974X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/37/Thiele et al. - Kryptowährung Bitcoin Währungswettbewerb oder Spe.pdf"/>
+        <dc:title>Thiele et al. - Kryptowährung Bitcoin Währungswettbewerb oder Spe.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.econstor.eu/bitstream/10419/175126/1/ifosd-v70-2017-i22-p03-20.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 14:10:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-8006-4315-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Vahlen</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Issing</foaf:surname>
+                        <foaf:givenName>Otmar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44"/>
+        <dc:title>Einführung in die Geldtheorie</dc:title>
+        <dc:date>2011</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://elibrary.vahlen.de/index.php?doi=10.15358/9783800643158</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 16:43:51</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.15358/9783800643158</dc:description>
+        <dc:identifier>ISBN 978-3-8006-4315-8</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_44">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/44/Issing - 2011 - Einführung in die Geldtheorie.pdf"/>
+        <dc:title>Eingereichte Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www3.ub.tu-berlin.de/ihv/000782580.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 16:43:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-428-40756-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Duncker &amp; Humblot</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keynes</foaf:surname>
+                        <foaf:givenName>John Maynard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Vom Gelde (A Treatise on Money).</dc:title>
+        <dc:date>1983</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://elibrary.duncker-humblot.com/9783428407569</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 18:25:33</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.3790/978-3-428-40756-9</dc:description>
+        <dc:identifier>ISBN 978-3-428-40756-9</dc:identifier>
+        <prism:edition>3</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-3-428-56561-0">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Duncker &amp; Humblot reprints</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Duncker &amp; Humblot</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knapp</foaf:surname>
+                        <foaf:givenName>Georg Friedrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Staatliche Theorie des Geldes.</dc:title>
+        <dc:date>1923</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://elibrary.duncker-humblot.com/9783428565610</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 19:21:20</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.3790/978-3-428-56561-0</dc:description>
+        <dc:identifier>ISBN 978-3-428-56561-0</dc:identifier>
+        <prism:edition>4</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-0-19-924057-9%20978-0-19-924856-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Oxford New York Auckland Cape Town Dar es Salaam Hong Kong Karachi</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Oxford University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bofinger</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reischle</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schächter</foaf:surname>
+                        <foaf:givenName>Andrea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dcterms:isReferencedBy rdf:resource="#item_52"/>
+        <link:link rdf:resource="#item_53"/>
+        <dc:title>Monetary policy: goals, institutions, strategies, and instruments</dc:title>
+        <dc:date>2001</dc:date>
+        <z:language>eng</z:language>
+        <z:shortTitle>Monetary policy</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-0-19-924057-9 978-0-19-924856-8</dc:identifier>
+        <z:numPages>454</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_52">
+        <rdf:value>Hier auch später erschienene, unveränderte Nachdrucke Überarbeitete englische Ausgabe der deutschen Original-Ausgabe von 1996: Bofinger, Peter: Geldpolitik</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/53/Bofinger - 2001 - Monetary policy goals, institutions, strategies, .pdf"/>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.gbv.de/dms/hebis-darmstadt/toc/101121792.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 22:32:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-4008-8908-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Princeton University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galbraith</foaf:surname>
+                        <foaf:givenName>John Kenneth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Money: Whence It Came, Where It Went</dc:title>
+        <dc:date>2017-08-29</dc:date>
+        <z:shortTitle>Money</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.degruyter.com/document/doi/10.1515/9781400889082/html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 23:12:48</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1515/9781400889082</dc:description>
+        <dc:identifier>ISBN 978-1-4008-8908-2</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-3-924043-75-9%20978-3-924043-77-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Eschborn, Germany</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Christian Rieck Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rieck</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_59"/>
+        <dc:title>Digni-Geld: Einkommen in den Zeiten der Roboter</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Digni-Geld</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-924043-75-9 978-3-924043-77-3</dc:identifier>
+        <prism:edition>Auflage 0</prism:edition>
+        <z:numPages>155</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_59">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/59/Rieck - 2018 - Digni-Geld Einkommen in den Zeiten der Roboter.pdf"/>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://d-nb.info/114770581X/04</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-03 23:16:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_61">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kroll</foaf:surname>
+                        <foaf:givenName>Joshua A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davey</foaf:surname>
+                        <foaf:givenName>Ian C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Felten</foaf:surname>
+                        <foaf:givenName>Edward W</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_60"/>
+        <dc:title>The Economics of Bitcoin Mining, or Bitcoin in the Presence of Adversaries</dc:title>
+        <dcterms:abstract>The Bitcoin digital currency depends for its correctness and stability on a combination of cryptography, distributed algorithms, and incentivedriven behavior. We examine Bitcoin as a consensus game and determine that it relies on separate consensus about the rules and about game state. An important aspect of Bitcoin’s design is the mining mechanism, in which participants expend resources on solving computational puzzles in order to collect rewards. This mechanism purportedly protects Bitcoin against certain technical problems such as inconsistencies in the system’s distributed log data structure. We consider the economics of Bitcoin mining, and whether the Bitcoin protocol can survive attacks, assuming that participants behave according to their incentives. We show that there is a Nash equilibrium in which all players behave consistently with Bitcoin’s reference implementation, along with inﬁnitely many equilibria in which they behave otherwise. We also show how a motivated adversary might be able to disrupt the Bitcoin system and “crash” the currency. Finally, we argue that Bitcoin will require the emergence of governance structures, contrary to the commonly held view in the Bitcoin community that the currency is ungovernable.</dcterms:abstract>
+        <dc:date>2013</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/60/Kroll et al. - 2013 - The Economics of Bitcoin Mining, or Bitcoin in the.pdf"/>
+        <dc:title>Kroll et al. - 2013 - The Economics of Bitcoin Mining, or Bitcoin in the.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=7bf78054192d98e999edcdf08971a5eed42518d2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-06 15:12:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-4919-5438-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sebastopol, CA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>O'Reilly</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Antonopoulos</foaf:surname>
+                        <foaf:givenName>Andreas M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_63"/>
+        <dcterms:isReferencedBy rdf:resource="#item_64"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bitcoin</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>BUSINESS &amp; ECONOMICS</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer programs</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>COMPUTERS</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>E-Commerce</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Electronic commerce</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Electronic Commerce</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Electronic funds transfers</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Entrepreneurship</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Finance</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Money</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Money &amp; Monetary Policy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Security Cryptography</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Mastering Bitcoin: programming the open blockchain</dc:title>
+        <dcterms:abstract>&quot;Join the technological revolution that's taking the world of finance by storm. Mastering Bitcoin is your guide through the seemingly complex world of Bitcoin, providing the knowledge you need to participate in the internet of money. Whether you're building the next killer app, investing in a startup, or simply curious about the technology, this revised and expanded second edition provides essential detail to get you started. Bitcoin, the first successful decentralized digital currency, is still in its early stages and yet it's already spawned a multi-billion dollar global economy. This economy is open to anyone with the knowledge and passion to participate. Mastering Bitcoin provides the knowledge. You simply supply the passion.&quot;--Provided by Amazon.com</dcterms:abstract>
+        <dc:date>2017</dc:date>
+        <z:shortTitle>Mastering Bitcoin</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>332.4/2</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>OCLC: ocn953432201</dc:description>
+        <dc:identifier>ISBN 978-1-4919-5438-6</dc:identifier>
+        <prism:edition>Second edition</prism:edition>
+        <z:numPages>371</z:numPages>
+    </bib:Book>
+   <bib:Memo rdf:about="#item_63"><rdf:value>Includes index</rdf:value></bib:Memo>
+    <bib:Memo rdf:about="#item_64">
+        <rdf:value>Introduction -- How Bitcoin works -- Bitcoin core: the reference implementation -- Keys, addresses -- Wallets -- Transactions -- Advanced transactions and scripting -- The Bitcoin network -- The blockchain -- Mining and consensus -- Bitcoin security -- Blockchain applications</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://mises.at/static/literatur/Buch/mises-theorie-des-geldes-und-der-umlaufsmittel-auflage2.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mises</foaf:surname>
+                        <foaf:givenName>Ludwig</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_71"/>
+        <dc:title>THEORIE DES GELDES UND DER UMLAUFSMITTEL</dc:title>
+        <dc:date>1924</dc:date>
+        <z:language>de</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://mises.at/static/literatur/Buch/mises-theorie-des-geldes-und-der-umlaufsmittel-auflage2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/71/Mises - THEORIE DES GELDES UND DER UMLAUFSMITTEL.pdf"/>
+        <dc:title>Mises - THEORIE DES GELDES UND DER UMLAUFSMITTEL.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://mises.at/static/literatur/Buch/mises-theorie-des-geldes-und-der-umlaufsmittel-auflage2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-06 20:31:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_73">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/73/0191_Bk.pdf"/>
+        <dc:title>0191_Bk.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/318/0191_Bk.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-06 20:43:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.econlib.org/library/YPDBooks/Jevons/jvnMME.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Econlib</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jevons</foaf:surname>
+                        <foaf:givenName>William Stanley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_77"/>
+        <dc:title>Money and the Mechanism of Exchange</dc:title>
+        <dcterms:abstract>In preparing this volume, I have attempted to write a descriptive essay on the past and present monetary systems of the world, the materials employed to make money, the regulations under which the coins are struck and issued, the natural laws which govern their circulation, the several modes in which they may be replaced by […]</dcterms:abstract>
+        <dc:date>1875</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.econlib.org/library/YPDBooks/Jevons/jvnMME.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-06 20:46:10</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_77">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/77/jvnMME.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.econlib.org/library/YPDBooks/Jevons/jvnMME.html?chapter_num=2#book-reader</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-06 20:46:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.cambridge.org/core/product/identifier/S0145553218000305/type/journal_article">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0145-5532,%201527-8034"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grubb</foaf:surname>
+                        <foaf:givenName>Farley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_81"/>
+        <dc:title>Colonial American Paper Money and the Quantity Theory of Money: An Extension</dc:title>
+        <dcterms:abstract>The quantity theory of money is applied to the paper money regimes of seven of the nine British North American colonies south of New England. Individual colonies, and regional groupings of contiguous colonies treated as one monetary unit, are tested. Little to no statistical relationship, and little to no magnitude of influence, between the quantities of paper money in circulation and prices are found. The quantity theory of money does not explain the value and performance of colonial paper monies well. This is a general and widespread result, and not a rare and isolated phenomenon.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Colonial American Paper Money and the Quantity Theory of Money</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/S0145553218000305/type/journal_article</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-12 18:33:02</dcterms:dateSubmitted>
+        <bib:pages>185-207</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0145-5532,%201527-8034">
+        <prism:volume>43</prism:volume>
+        <dc:title>Social Science History</dc:title>
+        <dc:identifier>DOI 10.1017/ssh.2018.30</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Soc. sci. hist.</dcterms:alternative>
+        <dc:identifier>ISSN 0145-5532, 1527-8034</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_81">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/81/Grubb - 2019 - Colonial American Paper Money and the Quantity The.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.nber.org/papers/w22192.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-12 18:33:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-00-932746-6%20978-1-00-932747-3%20978-1-00-932745-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>White</foaf:surname>
+                        <foaf:givenName>Lawrence H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Better Money: Gold, Fiat, or Bitcoin?</dc:title>
+        <dc:date>2023-03-31</dc:date>
+        <z:shortTitle>Better Money</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781009327466/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-06 19:20:56</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781009327466</dc:description>
+        <dc:identifier>ISBN 978-1-00-932746-6 978-1-00-932747-3 978-1-00-932745-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-1-108-16439-9%20978-1-107-19581-3%20978-1-316-64696-0">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weber</foaf:surname>
+                        <foaf:givenName>Beat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Democratizing Money?: Debating Legitimacy in Monetary Reform Proposals</dc:title>
+        <dc:date>2018-05-31</dc:date>
+        <z:shortTitle>Democratizing Money?</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108164399/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-06 20:46:26</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108164399</dc:description>
+        <dc:identifier>ISBN 978-1-108-16439-9 978-1-107-19581-3 978-1-316-64696-0</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <bib:Article rdf:about="https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>THE AMERICAN ECONOMIC REVIEW</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayek</foaf:surname>
+                        <foaf:givenName>F A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_88"/>
+        <dc:title>The Use of Knowledge in Society</dc:title>
+        <dc:date>1945</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_88">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/88/Hayek - The Use of Knowledge in Society.pdf"/>
+        <dc:title>Hayek - The Use of Knowledge in Society.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-17 12:37:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://insights.glassnode.com/the-week-onchain-week-32-2023/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+                <dc:title>Glassnode Insights - On-Chain Market Intelligence</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Checkmate</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_91"/>
+        <dc:title>Volatility Crush</dc:title>
+        <dcterms:abstract>Bitcoin prices are infamously volatile, however the market is currently experiencing an extreme volatility compression. Whilst options markets reflect this, it suggests that Bitcoin is either no longer infamously volatile... or volatility could be mispriced.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://insights.glassnode.com/the-week-onchain-week-32-2023/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-18 23:30:43</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/91/the-week-onchain-week-32-2023.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://insights.glassnode.com/the-week-onchain-week-32-2023/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-18 23:31:02</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://pm-research.com/lookup/doi/10.3905/jsf.2018.24.1.053">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1551-9783,%202374-1325"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ammous</foaf:surname>
+                        <foaf:givenName>Saifedean</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Can Bitcoin’s Volatility Be Tamed?</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://pm-research.com/lookup/doi/10.3905/jsf.2018.24.1.053</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-19 14:12:01</dcterms:dateSubmitted>
+        <bib:pages>53-60</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1551-9783,%202374-1325">
+        <prism:volume>24</prism:volume>
+        <dc:title>The Journal of Structured Finance</dc:title>
+        <dc:identifier>DOI 10.3905/jsf.2018.24.1.053</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>JSF</dcterms:alternative>
+        <dc:identifier>ISSN 1551-9783, 2374-1325</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1544612322004378">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:15446123"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bakas</foaf:surname>
+                        <foaf:givenName>Dimitrios</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magkonis</foaf:surname>
+                        <foaf:givenName>Georgios</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oh</foaf:surname>
+                        <foaf:givenName>Eun Young</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>What drives volatility in Bitcoin market?</dc:title>
+        <dc:date>12/2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1544612322004378</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-20 20:06:41</dcterms:dateSubmitted>
+        <bib:pages>103237</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:15446123">
+        <prism:volume>50</prism:volume>
+        <dc:title>Finance Research Letters</dc:title>
+        <dc:identifier>DOI 10.1016/j.frl.2022.103237</dc:identifier>
+        <dcterms:alternative>Finance Research Letters</dcterms:alternative>
+        <dc:identifier>ISSN 15446123</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1544612319309274">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>38</prism:volume>
+                <dc:title>Finance Research Letters</dc:title>
+                <dc:identifier>DOI 10.1016/j.frl.2019.101399</dc:identifier>
+                <dcterms:alternative>Finance Research Letters</dcterms:alternative>
+                <dc:identifier>ISSN 15446123</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>López-Cabarcos</foaf:surname>
+                        <foaf:givenName>M. Ángeles</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pérez-Pico</foaf:surname>
+                        <foaf:givenName>Ada M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piñeiro-Chousa</foaf:surname>
+                        <foaf:givenName>Juan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Šević</foaf:surname>
+                        <foaf:givenName>Aleksandar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Bitcoin volatility, stock market and investor sentiment. Are they connected?</dc:title>
+        <dc:date>01/2021</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1544612319309274</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-20 20:39:50</dcterms:dateSubmitted>
+        <bib:pages>101399</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1877050919322161">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:18770509"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guizani</foaf:surname>
+                        <foaf:givenName>Sana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nafti</foaf:surname>
+                        <foaf:givenName>Ines Kahloul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Determinants of Bitcoin Price Volatility: An Investigation With ARDL Model</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The Determinants of Bitcoin Price Volatility</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1877050919322161</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-20 20:46:37</dcterms:dateSubmitted>
+        <bib:pages>233-238</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:18770509">
+        <prism:volume>164</prism:volume>
+        <dc:title>Procedia Computer Science</dc:title>
+        <dc:identifier>DOI 10.1016/j.procs.2019.12.177</dc:identifier>
+        <dcterms:alternative>Procedia Computer Science</dcterms:alternative>
+        <dc:identifier>ISSN 18770509</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0165188920301482">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:01651889"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lyócsa</foaf:surname>
+                        <foaf:givenName>Štefan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Molnár</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plíhal</foaf:surname>
+                        <foaf:givenName>Tomáš</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Širaňová</foaf:surname>
+                        <foaf:givenName>Mária</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Impact of macroeconomic news, regulation and hacking exchange markets on the volatility of bitcoin</dc:title>
+        <dc:date>10/2020</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0165188920301482</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-20 20:46:48</dcterms:dateSubmitted>
+        <bib:pages>103980</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:01651889">
+        <prism:volume>119</prism:volume>
+        <dc:title>Journal of Economic Dynamics and Control</dc:title>
+        <dc:identifier>DOI 10.1016/j.jedc.2020.103980</dc:identifier>
+        <dcterms:alternative>Journal of Economic Dynamics and Control</dcterms:alternative>
+        <dc:identifier>ISSN 01651889</dc:identifier>
+    </bib:Journal>
+    <bib:Book rdf:about="urn:isbn:978-1-118-31672-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Chichester, West Sussex, United Kingdom</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wiley</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choudhry</foaf:surname>
+                        <foaf:givenName>Moorad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wong</foaf:surname>
+                        <foaf:givenName>Max</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_98"/>
+        <dc:title>An introduction to value-at-risk</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-1-118-31672-6</dc:identifier>
+        <prism:edition>Fifth edition</prism:edition>
+        <z:numPages>200</z:numPages>
+    </bib:Book>
+   <bib:Memo rdf:about="#item_98"><rdf:value>Includes index</rdf:value></bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-0-7083-1773-0%20978-0-7083-1717-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cardiff</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Wales Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davies</foaf:surname>
+                        <foaf:givenName>Glyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_99"/>
+        <dc:title>A history of money: from ancient times to the present day</dc:title>
+        <dc:date>2002</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>A history of money</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-0-7083-1773-0 978-0-7083-1717-4</dc:identifier>
+        <prism:edition>3. ed., with revisions</prism:edition>
+        <z:numPages>720</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_99">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/99/Davies - 2002 - A history of money from ancient times to the pres.pdf"/>
+        <dc:title>Davies - 2002 - A history of money from ancient times to the pres.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://library.uniteddiversity.coop/Money_and_Economics/A_History_of_Money-From_Ancient_Times_to_the_Present_Day.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-17 17:40:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-292-26445-5">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>The Pearson series in economics</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Harlow, England London New York Boston San Francisco Toronto Sydney Dubai Singapore Hong Kong Tokyo Seoul Taipei New Delhi Cape Town Sao Paulo Mexico City Madrid Amsterdam Munich Paris Milan</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Pearson</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stock</foaf:surname>
+                        <foaf:givenName>James H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watson</foaf:surname>
+                        <foaf:givenName>Mark W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_102"/>
+        <link:link rdf:resource="#item_103"/>
+        <dc:title>Introduction to econometrics</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-1-292-26445-5</dc:identifier>
+        <prism:edition>Fourth edition, global edition</prism:edition>
+        <z:numPages>797</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_102">
+        <rdf:value>Literaturverzeichnis: Seite 771-774 Hier auch später erschienene, unveränderte Nachdrucke</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_103">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/103/Stock und Watson - 2020 - Introduction to econometrics.pdf"/>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.gbv.de/dms/ilmenau/toc/1645406369.PDF</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-17 17:50:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-8006-4235-9%20978-3-8006-4234-2">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Vahlens Kurzlehrbücher</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>München</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Verlag Franz Vahlen</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moritz</foaf:surname>
+                        <foaf:givenName>Karl-Heinz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_105"/>
+        <link:link rdf:resource="#item_106"/>
+        <dc:title>Geldtheorie und Geldpolitik</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>ger</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-8006-4235-9 978-3-8006-4234-2</dc:identifier>
+        <prism:edition>3., vollständig überarbeitete und erweiterte Auflage</prism:edition>
+        <z:numPages>401</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_105">
+       <rdf:value>Literatur- und URL-Verz. S. [383] - 394</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_106">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/106/Moritz - 2012 - Geldtheorie und Geldpolitik.pdf"/>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.gbv.de/dms/zbw/666231273.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-18 14:32:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-540-72211-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Meilensteine der Nationalökonomie</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin Heidelberg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayek</foaf:surname>
+                        <foaf:givenName>Friedrich A. von</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fanno</foaf:surname>
+                        <foaf:givenName>Marco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_108"/>
+        <dc:title>Beiträge zur Geldtheorie</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>ger</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-540-72211-3</dc:identifier>
+        <prism:edition>Reprint der 1. Aufl. Wien, 1933</prism:edition>
+        <z:numPages>511</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_108">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/108/Hayek und Fanno - 2007 - Beiträge zur Geldtheorie.pdf"/>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://swbplus.bsz-bw.de/bsz265481538inh.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-18 18:49:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-486-79570-7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>De Gruyter</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schaal</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_110"/>
+        <dc:title>Geldtheorie und Geldpolitik</dc:title>
+        <dc:date>1998-12-31</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.degruyter.com/document/doi/10.1515/9783486795707/html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-18 20:07:50</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1515/9783486795707</dc:description>
+        <dc:identifier>ISBN 978-3-486-79570-7</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_110">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/110/Schaal - 1998 - Geldtheorie und Geldpolitik.pdf"/>
+        <dc:title>Eingereichte Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www3.ub.tu-berlin.de/ihv/000137745.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-18 20:07:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-486-58148-5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>OLDENBOURG WISSENSCHAFTSVERLAG</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderegg</foaf:surname>
+                        <foaf:givenName>Ralph</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Grundzüge der Geldtheorie und Geldpolitik:</dc:title>
+        <dc:date>2007-12-31</dc:date>
+        <z:shortTitle>Grundzüge der Geldtheorie und Geldpolitik</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.degruyter.com/document/doi/10.1524/9783486841923/html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-18 20:40:48</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1524/9783486841923</dc:description>
+        <dc:identifier>ISBN 978-3-486-58148-5</dc:identifier>
+    </bib:Book>
+</rdf:RDF>
